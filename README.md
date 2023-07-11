@@ -4,8 +4,8 @@
 
 2. Clone the project
 ```
-git clone 
-cd
+git clone https://github.com/Silme94/Standard-Keylogger
+cd Standard-Keylogger
 ```
 3. Compile the file using the Makefile in the folder bin.
 ```
